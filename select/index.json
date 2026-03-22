@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Drown in Twinkle",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-03-22T02:30:44.926406Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drown In Twinkle",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_Drown_In_Twinkle_秋山黄色.txt"
+    }
+  ]
+}
